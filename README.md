@@ -21,3 +21,4 @@ This project was inspired by and developed following a tutorial by TheDeveloperY
 
 
 ## Dashboard Preview
+https://github.com/Christopher-AR/Weather-Forecast/blob/main/Snapshot.png
